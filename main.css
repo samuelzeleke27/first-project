@@ -1,12 +1,12 @@
 body{
- background:red ;
+ background:blue ;
    color:yellow;
 }
 #firstparagraph{
-      font-size: 36px; 
+      font-size: 40px; 
 }
 .headers{
-    font-family:arial; 
+    font-family:Arial; 
     text-align:center;
 }
 
